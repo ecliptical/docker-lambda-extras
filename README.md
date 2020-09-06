@@ -8,4 +8,4 @@ Customized Docker images for AWS Lambda based on the wonderful [docker-lambda](h
 FROM ghcr.io/ecliptical/docker-lambda-extras:${TAG}
 ```
 
-See the [published releases](./releases) for [available tags](./tags).
+See the [published releases](/ecliptical/docker-lambda-extras/releases) for [available tags](/ecliptical/docker-lambda-extras/tags).
